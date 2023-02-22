@@ -1,7 +1,7 @@
 
 # ShakespeareGPT
 
-![ShakespeareGPT](assets/shakespeareGPT.gif.sb-5df1e8f1-UenaqG)
+![ShakespeareGPT](assets/shakespeareGPT.gif)
 
 Built GPT Model that can continuously generate Shakespeare related text.
 It is a rewrite of [minGPT](https://github.com/karpathy/minGPT) that prioritizes teeth over education. 
