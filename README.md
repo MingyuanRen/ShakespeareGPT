@@ -4,7 +4,6 @@
 ![ShakespeareGPT](assets/shakespeareGPT.gif)
 
 Built GPT Model that can continuously generate Shakespeare related text.
-It is a rewrite of [minGPT](https://github.com/karpathy/minGPT) that prioritizes teeth over education. 
 The current file `train.py` and `model.py` reproduce GPT on OpenWebText, and `model.py` can optionally load the GPT-2 weights from OpenAI.
 
 ## Install
